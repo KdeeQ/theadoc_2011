@@ -1,1 +1,2 @@
  TheaDoc is image base application. With TheaDoc you can create, view and modify theater show image-gallery. Theater Show image-gallery is designed especially for theater stage technique needs. This prototype is Theater Show Light image-gallery section and it is designed to TheaDocment stage light's. Stage light image-gallery will help you rebuild existing Theater Show lights and focusing lamps.
+Demo http://pettay.fi/theadoc
